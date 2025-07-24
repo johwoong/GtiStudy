@@ -7,7 +7,10 @@ coach: Nicolas
 manager: Luke
 coach: Nicolas
 coach: Melissa
+<<<<<<< HEAD
 >>>>>>> 284b201 (Revert "Edit Leopards coach")
+=======
+>>>>>>> 284b20109e570671f2b123863a6a18df3455ddc4
 
 members:
 - Linda
