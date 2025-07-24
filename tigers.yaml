@@ -2,9 +2,13 @@ team: Tigers
 
 <<<<<<< HEAD
 manager: Kenneth
+<<<<<<< HEAD
 =======
 manager: Deborah
 >>>>>>> conflict-1
+=======
+manager: Deborah
+>>>>>>> conflict-2
 coach: Grace
 
 members:
